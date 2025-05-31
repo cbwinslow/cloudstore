@@ -22,7 +22,6 @@ webdriver-manager>=3.8.6
 firecrawl>=0.1.0
 
 # Proxy Management
-ipburger-client>=0.1.0
 
 # Utilities
 python-dotenv>=1.0.0

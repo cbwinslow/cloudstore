@@ -1,4 +1,8 @@
 """
+API package for CloudStore application.
+"""
+
+"""
 API module for CloudStore.
 
 This module provides REST API endpoints for data submission,
