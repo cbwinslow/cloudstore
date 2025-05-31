@@ -27,7 +27,7 @@ setup(
     author="Blaine Winslow",
     author_email="blaine.winslow@gmail.com",
     url="https://github.com/cbwinslow/cloudstore",
-    packages=find_packages(),
+    packages=find_packages(include=['cloudstore*', 'crawlers*', 'api*']),
     install_requires=requirements,
     classifiers=[
         "Development Status :: 3 - Alpha",
